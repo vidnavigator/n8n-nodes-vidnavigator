@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-vidnavigator",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "n8n node for VidNavigator MCP HTTP API",
   "keywords": [
     "n8n-community-node-package"
@@ -13,7 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vidnavigator/vidnavigator-n8n-workspace.git"
+    "url": "https://github.com/vidnavigator/vidnavigator-n8n-workspace.git",
+    "directory": "packages/n8n-nodes-mcp"
   },
   "engines": {
     "node": ">=20.15"
